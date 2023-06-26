@@ -114,7 +114,7 @@
             <artifactId>postgresql</artifactId>
         </dependency>
 
-        <!-- ************* START: Dependencies for Unit and Integration Testing ************** -->
+        <!-- ************* START: Dependencies for Unit and Integration Testings ************** -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
