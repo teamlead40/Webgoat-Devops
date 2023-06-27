@@ -7,7 +7,7 @@
         <groupId>org.owasp.webgoat</groupId>
         <artifactId>webgoat-parent</artifactId>
         <version>8.2.3-SNAPSHOT</version>
-    </parent>
+    </parent>>
 
     <dependencies>
     	<dependency>
@@ -126,7 +126,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
+<!-- test comment-->
     <build>
         <plugins>
             <plugin>
