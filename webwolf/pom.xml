@@ -7,7 +7,7 @@
         <groupId>org.owasp.webgoat</groupId>
         <artifactId>webgoat-parent</artifactId>
         <version>8.2.3-SNAPSHOT</version>
-    </parent>>
+    </parent>&gt;
 
     <dependencies>
     	<dependency>
@@ -98,7 +98,7 @@
         <dependency>
             <groupId>org.webjars</groupId>
             <artifactId>bootstrap</artifactId>
-            <version>3.3.7</version>
+            <version>5.3.3</version>
         </dependency>
         <dependency>
             <groupId>org.webjars</groupId>
